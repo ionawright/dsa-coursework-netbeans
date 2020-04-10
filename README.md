@@ -20,8 +20,10 @@ _______
 
 _______
 
-### 🤦🏼‍♀️ Need to further develop:
-- I never implemented the IDisplayable interface - unsure exactly what I could use this for or am I over thinking this?
-- I can only store a file via the Object stream, still working out how to import a file.
+### 👩‍💻Need to further develop:
+- I never implemented the IDisplayable interface - unsure exactly what I could use this for or am I over thinking this? 💭
+- I can only store a file via the Object stream, still working out how to import a file 🤦🏼‍♀️ 
+- I need to look up JavaDocs, unsure what the benefit of this is yet 🤷‍♀️
 
+Still writing 💬
 
