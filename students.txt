@@ -1,0 +1,5 @@
+1, "Rose", "Wright", 00034831, "2019-08-18", GRADUATE
+2, "Blair", "Dickson", 00034832, "2019-08-18", UNDERGRADUATE
+3, "Jasmine", "Burke", 00034833, "2019-08-18", GRADUATE
+4, "Chris", "Smith", 00034834, "2019-08-18", UNDERGRADUATE
+5, "Una", "Currie", 00034835, "2019-08-18", GRADUATE
